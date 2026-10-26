@@ -10,8 +10,8 @@
 
 `Lo que no alcanzó a entrar o no se pudo verificar. "Nada" también es una respuesta válida.`
 
----
+## Antes de pedir la revisión
 
 - [ ] No subí datos reales, contraseñas ni llaves
-- [ ] Actualicé `AGENTS.md` con lo que se decidió, lo que falló o lo que quedó pendiente
+- [ ] Actualicé `AGENTS.md`, o no hizo falta en este cambio
 - [ ] Probé el cambio y arriba digo cómo
